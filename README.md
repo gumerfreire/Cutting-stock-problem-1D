@@ -1,2 +1,3 @@
 # Cutting-stock-problem-1D
-Python package for the optimization of piece cutting in 1D
+Work in progress for Cutting stock problem 1D.
+This repository is still under construction.
